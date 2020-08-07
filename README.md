@@ -13,3 +13,4 @@ References
 - Siraj Raval Channel
 - Sentdex channel 
 - Krish Naik Youtube channel especially Deep Learning series
+- Special thanks for mathematical understand from Sebastian Mantey Channel
