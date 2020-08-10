@@ -4,6 +4,7 @@ Basic to advanced concepts of neural net
 References
 
 - https://nnfs.io/
+- Deep Learning: Book by Aaron Courville, Ian Goodfellow, and Yoshua Bengio
 - Deeplearning.ai youtube channel
 - https://medium.com/@thesupercoder/neural-networks-in-5-minutes-84edc781c8ac
 - Deep Learning in Hindi youtube channel
