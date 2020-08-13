@@ -11,6 +11,7 @@ References
 - https://www.youtube.com/watch?v=AiAsoH47y44&list=PLPOTBrypY74wOpTIWQhqNdfV5gIt1h1fa&index=5
 - Valerio Velardo - The Sound of AI channel
 - Thomas DELTEIL channel
+- For LSTM : https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - Siraj Raval Channel
 - Sentdex channel 
 - Krish Naik Youtube channel especially Deep Learning series
