@@ -17,3 +17,4 @@ References
 - Krish Naik Youtube channel especially Deep Learning series
 - Special thanks for mathematical understand from Sebastian Mantey Channel
 - Nikolai Janakiev: https://realpython.com/python-keras-text-classification/
+- Susan Li : https://towardsdatascience.com/multi-class-text-classification-with-lstm-1590bee1bd17
